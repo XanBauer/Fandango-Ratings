@@ -10,3 +10,7 @@ urllib3==1.7.1
 virtualenv==16.7.9
 wheel==0.24.0
 wsgiref==0.1.2
+
+pandas
+matplotlib
+numpy
